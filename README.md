@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning the Scripting Language: LUA
 - 📫 How to reach me?
 - Discord: LeonGamer#3870
-- Twitter: LeonLikesRoblox
+- Twitter: @LeonLikesRoblox
