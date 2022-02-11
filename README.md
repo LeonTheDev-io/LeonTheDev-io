@@ -1,6 +1,1 @@
-- 👋 Hi, I’m Leon
-- 👀 I’m interested in making Discord Bots & Roblox Games
-- 🌱 I’m currently learning the Scripting Language: LUA
-- 📫 How to reach me?
-- Discord: LeonGamer#3870
-- Twitter: @LeonLikesRoblox
+Hello
