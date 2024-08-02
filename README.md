@@ -30,7 +30,7 @@ Software Engineer
 [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org) [![Debian](https://skillicons.dev/icons?i=debian)](https://www.debian.org) [![Windows](https://skillicons.dev/icons?i=windows)](https://www.microsoft.com/windows)
 
 ### Tools
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/) [![NPM](https://skillicons.dev/icons?i=npm)](https://www.npmjs.com/) [![Cloudflare](https://skillicons.dev/icons?i=cloudflare)](https://cloudflare.com) [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/) [![NPM](https://skillicons.dev/icons?i=npm)](https://www.npmjs.com/) [![Cloudflare](https://skillicons.dev/icons?i=cloudflare)](https://cloudflare.com) [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com) [![Obsidian](https://skillicons.dev/icons?i=obsidian)](https://obsidian.md) [![Grafana](https://skillicons.dev/icons?i=grafana)](https://grafana.com/)
 
 ### Other Programs
 [![Blender](https://skillicons.dev/icons?i=blender)](https://www.blender.org/) [![Photoshop](https://skillicons.dev/icons?i=ps)](https://www.adobe.com/uk/products/photoshop.html) [![Premiere Pro](https://skillicons.dev/icons?i=pr)](https://www.adobe.com/uk/products/premiere.html)
